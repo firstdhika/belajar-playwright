@@ -29,7 +29,7 @@ export default defineConfig({
     headless: true,
   screenshot: 'only-on-failure',
   video: 'retain-on-failure',
-  trace: 'on-first-retry',
+  trace: 'on',
   actionTimeout: 10000,    // tunggu maksimal 10 detik per aksi
   navigationTimeout: 30000, // tunggu maksimal 30 detik untuk navigasi
   },
