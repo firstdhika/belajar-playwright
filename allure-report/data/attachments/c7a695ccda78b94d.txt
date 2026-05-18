@@ -1,0 +1,6 @@
+Post dibuat: {
+  title: 'Belajar Playwright',
+  body: 'API testing sangat mudah',
+  userId: 1,
+  id: 101
+}
